@@ -5,7 +5,7 @@
 <h4>
 
 
-- 🔭 I’m currently working on [zyCode](https://github.com/nishantdhongadi/zyCode) and [TwitchSenti](https://github.com/nishantdhongadi/twitchsenti)
+- 🔭 I’m currently working on [Tennis Match Outcome Prediction Model](https://github.com/nishantdhongadi/tennis-prediction-model) and [TwitchSenti](https://github.com/nishantdhongadi/twitchsenti)
 
 - 🌱 I’m currently learning **OCaml, Python, and Javascript**
 
