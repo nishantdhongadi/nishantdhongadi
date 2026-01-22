@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nishant! 🙋‍♂️</h1>
-<h3 align="center">A Back-End Developer Studying Computer Science at Arizona State University.</h3>
+<h1 align="center">hi, i'm nishant!</h1>
+<h3 align="center">Currently Studying Computer Science at Arizona State University.</h3>
 
 
 <h4>
