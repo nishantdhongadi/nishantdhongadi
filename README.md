@@ -1,6 +1,6 @@
 # Nishant Dhongadi
 
-Software engineer in San Francisco. AI systems: retrieval, agents, and on-device inference.
+Software engineer in San Francisco. I build AI systems: retrieval and agents.
 
 ### Experience
 
