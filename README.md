@@ -1,6 +1,6 @@
 # Nishant Dhongadi
 
-Software engineer in San Francisco. I work on AI systems: retrieval, agents, and running models where they are not supposed to fit.
+Software engineer in San Francisco. AI systems: retrieval, agents, and on-device inference.
 
 ### Experience
 
@@ -26,7 +26,7 @@ Python, Java, C++, TypeScript, JavaScript, SQL
 PyTorch, Transformers, FAISS, LiteLLM, scikit-learn, pandas, NumPy
 React, Next.js, Node, Express, Flask, PostgreSQL, Firebase, GCP, Docker, Elasticsearch, Playwright, Vitest
 
-### Also
+### Education
 
 MS Computer Science at NYU Courant, expected 2028. BS Computer Science, Arizona State, 2026.
 President of the Software Developers Association at ASU: 38 officers across engineering, strategy, and operations, serving 3,000+ students.
