@@ -4,16 +4,16 @@ Software engineer in San Francisco. CS @ NYU. Mostly retrieval and agents.
 
 ### Experience
 
-**Wells Fargo** *(Software Engineer Intern, Jun 2025 to Aug 2025)*
+**Wells Fargo** *(Software Engineer Intern)*
 Integrated RAG into the Virtual Assistant used in 500M+ interactions, using Google ADK and Elasticsearch Vector DB. Replaced Dialogflow CX with a custom scrape-and-vectorize pipeline supporting real-time content ingestion, plus context-aware utterance classification for multi-turn continuity.
 
-**Next Lab, ASU** *(Research Assistant, Oct 2025 to May 2026)*
+**Next Lab, ASU** *(Research Assistant)*
 Built a fully offline RAG pipeline on an NVIDIA Jetson Orin Nano (8GB), running small open-source LLMs locally with llama.cpp and 4-bit quantization over a FAISS index, no cloud dependency. Benchmarked open models with LLM-as-judge and human-preference scoring, then proposed a governed ensemble RAG architecture pairing frontier and domain-specialized models with human-in-the-loop review for a regulated domain.
 
-**Sport Sitters** *(Software Engineer Intern, Sep 2025 to May 2026)*
+**Sport Sitters** *(Software Engineer Intern)*
 Rebuilt the backend on Firebase Cloud Functions and Node.js: auth, payments, and booking, supporting $50K+ processed through Stripe. Migrated 200+ users onto new account schemas with zero interruption across auth, booking, and payments.
 
-**Arizona State University** *(Teaching Assistant, Aug 2023 to Dec 2025)*
+**Arizona State University** *(Teaching Assistant)*
 Weekly labs for 1,000+ students in object-oriented programming and data structures, alongside 3 professors and 6 TAs.
 
 ### Projects
