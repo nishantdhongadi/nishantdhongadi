@@ -1,6 +1,6 @@
 # Nishant Dhongadi
 
-Software engineer in San Francisco. CS @ NYU. Mostly retrieval and agents.
+Software engineer in San Francisco. Mostly retrieval and agents.
 
 ### Experience
 
@@ -28,7 +28,7 @@ React, Next.js, Node, Express, Flask, PostgreSQL, Firebase, GCP, Docker, Elastic
 
 ### Education
 
-MS Computer Science at NYU Courant, expected 2028. BS Computer Science, Arizona State, 2026.
+BS Computer Science, Arizona State, 2026.
 President of the Software Developers Association at ASU: 38 officers across engineering, strategy, and operations, serving 3,000+ students.
 
 [LinkedIn](https://linkedin.com/in/nishantdhongadi) · [nishantdhongadi@gmail.com](mailto:nishantdhongadi@gmail.com)
